@@ -1,0 +1,32 @@
+food-ordering-app/
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── Menu.js
+│   │   │   ├── Cart.js
+│   │   ├── styles/
+│   │   │   ├── styles.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   ├── script.js
+│   ├── package.json
+│   ├── README.md
+├── backend/
+│   ├── models/
+│   │   ├── Food.js
+│   ├── routes/
+│   │   ├── api.js
+│   ├── config/
+│   │   ├── db.js
+│   ├── controllers/
+│   │   ├── foodController.js
+│   ├── middleware/
+│   │   ├── errorHandler.js
+│   │   ├── authMiddleware.js
+│   ├── .env
+│   ├── server.js
+│   ├── package.json
+│   ├── README.md
